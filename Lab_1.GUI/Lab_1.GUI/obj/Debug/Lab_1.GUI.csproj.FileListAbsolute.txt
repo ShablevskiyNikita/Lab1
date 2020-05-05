@@ -1,0 +1,19 @@
+D:\ЧНУ\ПАЛМ\2 курс\2 семестр\Lab_1\Lab_1.GUI\Lab_1.GUI\bin\Debug\Lab_1.GUI.exe.config
+D:\ЧНУ\ПАЛМ\2 курс\2 семестр\Lab_1\Lab_1.GUI\Lab_1.GUI\bin\Debug\Lab_1.GUI.exe
+D:\ЧНУ\ПАЛМ\2 курс\2 семестр\Lab_1\Lab_1.GUI\Lab_1.GUI\bin\Debug\Lab_1.GUI.pdb
+D:\ЧНУ\ПАЛМ\2 курс\2 семестр\Lab_1\Lab_1.GUI\Lab_1.GUI\obj\Debug\Lab_1.GUI.csprojAssemblyReference.cache
+D:\ЧНУ\ПАЛМ\2 курс\2 семестр\Lab_1\Lab_1.GUI\Lab_1.GUI\obj\Debug\Lab_1.GUI.Form1.resources
+D:\ЧНУ\ПАЛМ\2 курс\2 семестр\Lab_1\Lab_1.GUI\Lab_1.GUI\obj\Debug\Lab_1.GUI.Properties.Resources.resources
+D:\ЧНУ\ПАЛМ\2 курс\2 семестр\Lab_1\Lab_1.GUI\Lab_1.GUI\obj\Debug\Lab_1.GUI.csproj.GenerateResource.cache
+D:\ЧНУ\ПАЛМ\2 курс\2 семестр\Lab_1\Lab_1.GUI\Lab_1.GUI\obj\Debug\Lab_1.GUI.exe
+D:\ЧНУ\ПАЛМ\2 курс\2 семестр\Lab_1\Lab_1.GUI\Lab_1.GUI\obj\Debug\Lab_1.GUI.pdb
+C:\Users\chitb\source\repos\Новая папка\Lab_1.GUI\Lab_1.GUI\bin\Debug\Lab_1.GUI.exe.config
+C:\Users\chitb\source\repos\Новая папка\Lab_1.GUI\Lab_1.GUI\bin\Debug\Lab_1.GUI.exe
+C:\Users\chitb\source\repos\Новая папка\Lab_1.GUI\Lab_1.GUI\bin\Debug\Lab_1.GUI.pdb
+C:\Users\chitb\source\repos\Новая папка\Lab_1.GUI\Lab_1.GUI\obj\Debug\Lab_1.GUI.csprojAssemblyReference.cache
+C:\Users\chitb\source\repos\Новая папка\Lab_1.GUI\Lab_1.GUI\obj\Debug\Lab_1.GUI.Form1.resources
+C:\Users\chitb\source\repos\Новая папка\Lab_1.GUI\Lab_1.GUI\obj\Debug\Lab_1.GUI.Properties.Resources.resources
+C:\Users\chitb\source\repos\Новая папка\Lab_1.GUI\Lab_1.GUI\obj\Debug\Lab_1.GUI.csproj.GenerateResource.cache
+C:\Users\chitb\source\repos\Новая папка\Lab_1.GUI\Lab_1.GUI\obj\Debug\Lab_1.GUI.csproj.CoreCompileInputs.cache
+C:\Users\chitb\source\repos\Новая папка\Lab_1.GUI\Lab_1.GUI\obj\Debug\Lab_1.GUI.exe
+C:\Users\chitb\source\repos\Новая папка\Lab_1.GUI\Lab_1.GUI\obj\Debug\Lab_1.GUI.pdb
